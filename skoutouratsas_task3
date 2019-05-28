@@ -1,0 +1,4 @@
+ run client and server on different consoles
+ run server first and then client
+ leave server running and restart client for new question
+ when finished give -1 as input to client to close connection and exit server
